@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/bitrix/components/bitrix/sale.basket.basket/templates/bootstrap_v4/style.css" => "168050709944161",); ?>

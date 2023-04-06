@@ -1,0 +1,58 @@
+REGISTER_ERROR
+----------------------------
+DATE: 2023-04-03 12:31:06
+REQUEST_METHOD: curl
+URL https://securepayments.sberbank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 6_6_0
+    [amount] => 134900
+    [userName] => 
+    [password] => 
+    [description] => 
+    [returnUrl] => http://xxx00bcz.beget.tech/bitrix/tools/sale_ps_result.php?PAYMENT=SBERBANK&ORDER_ID=6&PAYMENT_ID=6
+    [CMS] => Bitrix 20.0.650
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.650","Module-Version":"1.3.9","USER_FIO":"\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0422\u0438\u0445\u043e\u043d\u043e\u0432","email":"xxx00bbb@gmail.com","phone":"+79058816608"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => [userName] or [password] or [token] is empty
+)
+
+
+
+REGISTER_ERROR
+----------------------------
+DATE: 2023-04-03 12:31:26
+REQUEST_METHOD: curl
+URL https://securepayments.sberbank.ru/payment/rest/
+METHOD getOrderStatusExtended.do
+DATA: 
+Array
+(
+    [orderNumber] => 6_6_0
+    [amount] => 134900
+    [userName] => 
+    [password] => 
+    [description] => 
+    [returnUrl] => http://xxx00bcz.beget.tech/bitrix/tools/sale_ps_result.php?PAYMENT=SBERBANK&ORDER_ID=6&PAYMENT_ID=6
+    [CMS] => Bitrix 20.0.650
+    [language] => ru
+    [jsonParams] => {"CMS":"Bitrix 20.0.650","Module-Version":"1.3.9","USER_FIO":"\u0413\u0440\u0438\u0433\u043e\u0440\u0438\u0439 \u0422\u0438\u0445\u043e\u043d\u043e\u0432","email":"xxx00bbb@gmail.com","phone":"+79058816608"}
+)
+
+RESPONSE: 
+Array
+(
+    [errorCode] => 5
+    [errorMessage] => [userName] or [password] or [token] is empty
+)
+
+
+

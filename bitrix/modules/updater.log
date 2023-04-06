@@ -1,0 +1,2 @@
+2023-04-03 12:29:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1680514161/bitrix.eshop/updater20.5.0.php': CopyFiles(install/components, components)
+2023-04-03 12:29:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1680514161/bitrix.eshop/updater20.5.0.php': CopyFiles(install/wizards, wizards)
